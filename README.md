@@ -76,11 +76,11 @@ streamlit run app.py
 
 ## 📷 Screenshots  
 
-### 🔹 Linear Regression
-![Linear Regression](Output_Images/Linear_Regression.png)  
+### 🔹 Linear Regression  
+<img src="Output_Images/Linear_Regression.png" width="500">  
 
-### 🔹 Random Forest 
-![Random Forest](Output_Images/Random_Forest.png)  
+### 🔹 Random Forest  
+<img src="Output_Images/Random_Forest.png" width="500">    
 
 
 📜 Code Structure
