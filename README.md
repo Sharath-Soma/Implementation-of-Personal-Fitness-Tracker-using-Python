@@ -1,5 +1,15 @@
 # 🏋️‍♂️ Fitness Tracker Project  
 
+🔗 GitHub Repository: https://github.com/Sharath-Soma/Implementation-of-Personal-Fitness-Tracker-using-Python
+
+⭐ GitHub Stars: https://github.com/Sharath-Soma/Implementation-of-Personal-Fitness-Tracker-using-Python/stargazers
+
+🔀 GitHub Forks: https://github.com/Sharath-Soma/Implementation-of-Personal-Fitness-Tracker-using-Python/network
+
+🐛 GitHub Issues: https://github.com/Sharath-Soma/Implementation-of-Personal-Fitness-Tracker-using-Python/issues
+
+📜 License: https://github.com/Sharath-Soma/Implementation-of-Personal-Fitness-Tracker-using-Python/blob/main/LICENSE
+
 🚀 **Try it now!**  
 Click the button below to open the Jupyter Notebook:  
 
@@ -63,12 +73,15 @@ bash
 Copy
 Edit
 streamlit run app.py
-📷 Screenshots
-🔹 User Input Panel
 
-🔹 Prediction Results
+## 📷 Screenshots  
 
-🔹 Data Visualization
+### 🔹 Linear Regression
+![Linear Regression](Output_Images/Linear_Regression.png)  
+
+### 🔹 Random Forest 
+![Random Forest](Output_Images/Random_Forest.png)  
+
 
 📜 Code Structure
 bash
