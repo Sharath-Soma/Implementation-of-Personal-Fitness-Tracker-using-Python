@@ -1,3 +1,11 @@
+# 🏋️‍♂️ Fitness Tracker Project  
+
+🚀 **Try it now!**  
+Click the button below to open the Jupyter Notebook:  
+
+[![Open in Jupyter](https://img.shields.io/badge/Open%20Notebook-Click%20Here-blue?style=for-the-badge&logo=jupyter)](https://jupyter.org/try-jupyter/notebooks/?path=fitness_tracker.ipynb)
+
+
 📌 Overview
 The Personal Fitness Tracker is a machine learning-powered calorie prediction application that helps users track their fitness progress based on biometric and activity data. It provides personalized insights into calorie expenditure using Linear Regression and Random Forest models.
 
